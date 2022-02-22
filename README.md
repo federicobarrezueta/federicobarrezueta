@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @federicobarrezueta
-- 👀 I’m interested in 🤖🤖🤖
+- 👀 I’m interested in Robots 🤖🤖🤖
 - 🌱 I’m currently learning ROS/ROS2, general Robotics disciplines
 - 💞️ I’m looking to collaborate on start-ups or robotics companies for an opportunity to work on a passion of mine.
 - 📫 How to reach me : federicobarrezueta@gmail.com
